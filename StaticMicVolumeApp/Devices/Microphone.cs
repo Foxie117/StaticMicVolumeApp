@@ -7,7 +7,7 @@ namespace StaticMicVolumeApp
 {
     public class Microphone
     {
-        private int _volume = 30;
+        private int _volume = 60;
 
         private string _micName = null;
 
